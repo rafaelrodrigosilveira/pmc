@@ -153,6 +153,6 @@ Inclua informações de contato e redes sociais.
 
 ## 12. Licença
 
-## Esta obra está licenciada sob a Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-sa/4.0/.
+*Esta obra está licenciada sob a Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-sa/4.0/.*
 
 Para mais detalhes, consultar o arquivo license.md
