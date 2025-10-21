@@ -9,16 +9,16 @@ Autor: **Rafael Rodrigo Silveira**
 
 ## Sumário
 
-1.  Prefácio / Introdução\
-2.  O que é o PMC (Project Management in Cross)\
-3.  Estrutura do PMC\
-4.  O Ciclo PMC\
-5.  Ferramentas PMC\
-6.  Aplicações Práticas\
-7.  Resultados Esperados com o PMC\
-8.  Como Implementar o PMC\diagra
-9.  Conclusão\
-10. Recursos Adicionais\
+1.  Prefácio / Introdução
+2.  O que é o PMC (Project Management in Cross)
+3.  Estrutura do PMC
+4.  O Ciclo PMC
+5.  Ferramentas PMC
+6.  Aplicações Práticas
+7.  Resultados Esperados com o PMC
+8.  Como Implementar o PMC
+9.  Conclusão
+10. Recursos Adicionais
 11. Sobre o Autor
 
 ------------------------------------------------------------------------
@@ -42,6 +42,7 @@ Além disso, o PMC é uma metodologia viva e adaptável, incorporando ao longo d
 ## 3. Estrutura do PMC
 
 Fase de Planejamento:
+
     1.  **Problema:** Entenda o problema descrevendo-o de forma mais objetiva possível\
     2.  **Stakeholders:** Entenda quem são os afetados ou interessados no projeto\
     3.  **Informação:** Como obter as informações detalhadas do projeto ou problema\
@@ -50,15 +51,19 @@ Fase de Planejamento:
     6.  **Plano de Ação:** O que será realizado para resolução do problema ou tarefa do projeto.\
 
 Fase de Testes:
+
     7.  **Testes de Solução:** Testar as soluções propostas no plano de ação\
 
 Fase de Monitoramento:
+
     8.  **Monitoramento:** Monitora a utilização do sistema afim de verificar possíveis problemas devido as alterações\
 
 Fase de Entrega:
+
     9.  **Entrega Padronizada:** Entrega de solução padronizada, mantendo documentação de todas as etapas do projeto
 
-<image-card alt="Diagrama Estrutural" src="diagrama_pmc.png" ></image-card>
+
+<image-card alt="Diagrama Estrutural" src="https://github.com/rafaelrodrigosilveira/pmc/blob/main/diagrama_pmc.png" ></image-card>
 
 ------------------------------------------------------------------------
 
