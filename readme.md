@@ -1,7 +1,7 @@
 # PMC -- Project Management in Cross - Gerenciamento de Projeto em Cruz
 
 ![Badge](https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=green&style=for-the-badge)
-![Badge](https://img.shields.io/static/v1?label=Licença&message=CCv4&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Licença&message=CCBY-SA4.0&color=blue&style=for-the-badge)
 ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=PMC&color=yellow&style=for-the-badge)
 ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=blue&style=for-the-badge)
 
