@@ -1,5 +1,10 @@
 # PMC -- Project Management in Cross - Gerenciamento de Projeto em Cruz
 
+![Badge](https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=green&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Licença&message=CCv4&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Linguagem&message=PMC&color=yellow&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=blue&style=for-the-badge)
+
 **Uma nova abordagem prática para gerenciar projetos complexos**\
 *Data: 07/10/2025 - Atualizado 21/10/2025*
 
@@ -43,27 +48,27 @@ Além disso, o PMC é uma metodologia viva e adaptável, incorporando ao longo d
 
 Fase de Planejamento:
 
-    1.  **Problema:** Entenda o problema descrevendo-o de forma mais objetiva possível\
-    2.  **Stakeholders:** Entenda quem são os afetados ou interessados no projeto\
-    3.  **Informação:** Como obter as informações detalhadas do projeto ou problema\
-    4.  **Resolver:** O que deve ser resolvido de fato, relacionado as consequências diretas\
-    5.  **Manter:** O que deve ser mantido, não podendo haver alteração\
-    6.  **Plano de Ação:** O que será realizado para resolução do problema ou tarefa do projeto.\
+    1.  Problema: Entenda o problema descrevendo-o de forma mais objetiva possível\
+    2.  Stakeholders: Entenda quem são os afetados ou interessados no projeto\
+    3.  Informação: Como obter as informações detalhadas do projeto ou problema\
+    4.  Resolver: O que deve ser resolvido de fato, relacionado as consequências diretas\
+    5.  Manter: O que deve ser mantido, não podendo haver alteração\
+    6.  Plano de Ação: O que será realizado para resolução do problema ou tarefa do projeto.\
 
 Fase de Testes:
 
-    7.  **Testes de Solução:** Testar as soluções propostas no plano de ação\
+    7.  Testes de Solução: Testar as soluções propostas no plano de ação\
 
 Fase de Monitoramento:
 
-    8.  **Monitoramento:** Monitora a utilização do sistema afim de verificar possíveis problemas devido as alterações\
+    8.  Monitoramento: Monitora a utilização do sistema afim de verificar possíveis problemas devido as alterações\
 
 Fase de Entrega:
 
-    9.  **Entrega Padronizada:** Entrega de solução padronizada, mantendo documentação de todas as etapas do projeto
+    9.  Entrega Padronizada: Entrega de solução padronizada, mantendo documentação de todas as etapas do projeto
 
 
-<image-card alt="Diagrama Estrutural" src="https://github.com/rafaelrodrigosilveira/pmc/blob/main/diagrama_pmc.png" ></image-card>
+![Imagem PNG](https://github.com/rafaelrodrigosilveira/pmc/blob/main/diagrama_pmc.png?raw=true)
 
 ------------------------------------------------------------------------
 
