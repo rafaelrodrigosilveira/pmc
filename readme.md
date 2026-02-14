@@ -177,4 +177,4 @@ CONTATO:
 
 *PMC  by Rafael Rodrigo Silveira is marked CC0 1.0 Universal. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/*
 
-Para mais detalhes, consultar o arquivo license.md
+Para mais detalhes, consultar o arquivo [license.md](https://github.com/rafaelrodrigosilveira/pmc/blob/main/LICENSE.md)
