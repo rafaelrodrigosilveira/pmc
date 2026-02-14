@@ -1,14 +1,11 @@
-# PMC -- Project Management in Cross - Gerenciamento de Projeto em Cruz
+# PMC - Project Management in Cross
 
 ![Badge](https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=green&style=for-the-badge)
-![Badge](https://img.shields.io/static/v1?label=Licença&message=CCBY-SA4.0&color=blue&style=for-the-badge)
-![Badge](https://img.shields.io/static/v1?label=Linguagem&message=PMC&color=yellow&style=for-the-badge)
-![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Licença&message=Domínio-público&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=yellow&style=for-the-badge)
 
 **Uma nova abordagem prática para gerenciar projetos complexos**\
-*Data: 07/10/2025 - Atualizado 21/10/2025*
-
-Autor: **Rafael Rodrigo Silveira** - Todos os direitos reservados.
+*Data: 07/10/2025 - Atualizado 14/02/2026*
 
 ------------------------------------------------------------------------
 
@@ -130,7 +127,7 @@ FASE DE ENTREGA
 
 ## 7. Conclusão
 
-O Project Management in Cross (PMC), ou Gerenciamento de Projeto em Cruz, surge como uma metodologia inovadora e essencial para gestores que buscam conduzir iniciativas complexas com **precisão, agilidade e resultados consistentes**.
+O Project Management in Cross (PMC), surge como uma metodologia inovadora e essencial para gestores que buscam conduzir iniciativas complexas com **precisão, agilidade e resultados consistentes**.
 
 **Reforço dos Princípios e Estrutura do PMC**
 
@@ -155,9 +152,9 @@ Convidamos você a **aplicar o Project Management in Cross em seus próprios pro
 
 ## 8. Recursos Adicionais
 
--   Templates e formulários prontos\
--   Links para vídeos ou artigos explicativos\
--   Glossário da metodologia
+-   Templates e formulários prontos\ (em desenvolvimento)
+-   Links para vídeos ou artigos explicativos\ (em desenvolvimento)
+-   Glossário da metodologia (em desenvolvimento)
 
 ------------------------------------------------------------------------
 
@@ -176,8 +173,8 @@ CONTATO:
 
 ------------------------------------------------------------------------
 
-## 10. Licença
+## 10. Licença (Domínio Público)
 
-*Esta obra está licenciada sob a Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-sa/4.0/.*
+*PMC  by Rafael Rodrigo Silveira is marked CC0 1.0 Universal. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/*
 
 Para mais detalhes, consultar o arquivo license.md
