@@ -1,7 +1,7 @@
 # PMC - Project Management in Cross
 
 ![Badge](https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=green&style=for-the-badge)
-![Badge](https://img.shields.io/static/v1?label=Licença&message=CC0 1.0&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=Licença&message=CC0-1.0&color=blue&style=for-the-badge)
 ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=yellow&style=for-the-badge)
 
 **Uma nova abordagem prática para gerenciar projetos complexos**\
